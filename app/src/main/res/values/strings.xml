@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssignmentThree</string>
+    <string name="action_gallery">Gallery</string>
+
+    <string name="no_location_detected">
+        No location detected. Please make sure location is enabled and try again.
+    </string>
+</resources>
